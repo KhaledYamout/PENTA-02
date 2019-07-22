@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# PENTA Pharama
 
-You can use the [editor on GitHub](https://github.com/KhaledYamout/PENTA-03/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Personal Info.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Khaled Yamout
+Born and raised in Riyadh, Saudi Arabia a city that was raised from the barren sands of the desert. Originally from Lebanon, enrolled at the Oxford multinational school where the first steps towards higher education began. Passionate about acting and film since childhood, after graduating from high school traveled to Lebanon to peruse an education in media studies at the Lebanese American University. In university learning so many skills and understanding progress in technology, observant that media in Lebanon was still in its most basic form. Graduated from (LAU) in 2014 to be able to continue studies abroad however, things did not go as planned. Obliged to stay, worked at an advertising company back in Riyadh where gaining work experience and profit took most of the focus from the real objective. Worked in different companies attaining a lot of knowledge and experience in how a business is run and what to expect from working in the media industry. After passing through many hardships, an understanding of what should happen next was initiating. Traveled back to Lebanon to begin work as a freelancer in media gave rise to time and new perspectives to work. After many attempts to finding a stable work environment realized that in this country media was still in its most basic steps in becoming a proper industry with regard to global company standards. While having spare time, an interest in computers and technology begun. Learning the basics of what computers can do made it crucial to consider studying I.T. and all its aspects.
 
-### Markdown
+Student ID: s3805942
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KhaledYamout/PENTA-03/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://github.com/KhaledYamout/Profile
