@@ -16,4 +16,33 @@ https://github.com/KhaledYamout/Profile
 
 As the group progressed further into the I.T. course, they all learned and researched all sorts of information to enable them to carry out the projects at hand. The research and the information gathered gave the individuals working on the projects new insight on technology and to understand the potentials of each topic that was covered. The group was able to communicate and convey their ideas to one another using social media and other means of communications. Once communications were set up they all decided on dividing work-load equally and fairly so that everyone did the same amount of work and contributed to the project together. The main objective of the previous project was not only to research and gather information but, also to create an ideas for a new project that had potential of becoming a tangible and realistic assignment. After submission of the project the group had a chance on reflecting on group performance which would help everyone know their faults and allow them to improve as the individuals advanced further into the future projects to come. 
 
-https://khaledyamout.github.io/Group-Profile-Penta/       
+https://khaledyamout.github.io/Group-Profile-Penta/
+
+## Plan for Group Project
+
+Detailed Description of Project 
+
+Devided into sections below.
+
+### Aims
+
+### Plans and Progress
+
+### Roles
+
+### Defining Certain Roles
+
+### Tools and Tech.
+
+### Testing
+
+### Time Frame
+
+### Risks
+
+### Group Procedure and Coms
+
+
+## Skills & Jobs
+
+## Group Reflection
