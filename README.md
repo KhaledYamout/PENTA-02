@@ -20,6 +20,12 @@ https://khaledyamout.github.io/Group-Profile-Penta/
 
 ## Plan for Group Project
 
+### Overview Topic
+
+### Motivation
+
+### Landscape 
+
 Detailed Description of Project 
 
 Devided into sections below.
