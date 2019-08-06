@@ -10,6 +10,10 @@ Student ID: s3805942
 
 https://github.com/KhaledYamout/Profile
 
+## Ideal Jobs
+
+Our ideal jobs have many similarities and differences nonetheless, it is crucial to know what they are to realize each other’s objective. There are so many functions a computer can produce though, it all differs on what, how, and which job requires a certain outcome. For instance Tayla has experience in accounting, Commerce/Banking, and consulting or advising. In her case she would need to use a computer to organize all her work and save financial data and client information. As mentioned earlier a computer not only helps organize workflow and save data but can function to create and produce works of art. Khaled a film student utilizes the computer to edit videos and so much more. Recently studying I.T. and computer sciences made him recognize that coding and programing can help him achieve things in design that were not discovered yet in his previous studies. Patrick who has an interest in Networking would use a computer in order to configure routers, troubleshooting any problems with the network, WAP’s, and help in many other ways to improve and make sure internet is accessible and smooth.  
+
 
 ## Group Accomplishment
 
