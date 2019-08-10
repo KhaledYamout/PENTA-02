@@ -24,6 +24,14 @@ https://khaledyamout.github.io/Group-Profile-Penta/
 
 ## Plan for Group Project
 
+PENTA is well rounded group, with each individual having their own unique skills and experiences. If the group manages to put those skills together, they would be able to gather and create a project that would have a lot of great aspects that would be needed to make a project successful. The I.T. industry is a vast and expanding subject, there are so many things to work on and yet, it is a very challenging field to work on.
+
+There are so many trends these days to work with but which trend would be the best choice to add or invest in? The answer would revolve around what the objective the project is moving towards. Some of the best trends are examples like; Mixed reality, A.I., IoT, Progressive web, Blockchains, and etc.  James R. (2019, 04, 25) 10 Software Development Trends in 2019. Retrieved from https://hackernoon.com/10-top-software-development-trends-a12d25f5fd2d.
+
+A career plan needs to be carefully studied and prepped for. A project that needs to be developed would have to have a foundation to work on. A state would be knowing what the project is to begin with. Is it an app that would bring services to the people? Is it something that would be available on a website? Or is it an internal software for a company that would make work easier? A career plan needs to have the proper funding and most of the people willing to go through with the project till the end even if it fails at first, because failure brings you closer to success.
+The first assignments the group has worked on allowed the members of PENTA to understand the concept of team work and communications. Learning how to cooperate with one another was an important step to take in order to get work done.   
+
+
 ### Overview Topic
 
 ### Motivation
