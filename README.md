@@ -24,7 +24,7 @@ https://khaledyamout.github.io/Group-Profile-Penta/
 
 ## Plan for Group Project
 
-PENTA is well rounded group, with each individual having their own unique skills and experiences. If the group manages to put those skills together, they would be able to gather and create a project that would have a lot of great aspects that would be needed to make a project successful. The I.T. industry is a vast and expanding subject, there are so many things to work on and yet, it is a very challenging field to work on.
+PENTA is a well rounded group, with each individual having their own unique skills and experiences. If the group manages to put those skills together, they would be able to gather and create a project that would have a lot of great aspects that would be needed to make a project successful. The I.T. industry is a vast and expanding subject, there are so many things to work on and yet, it is a very challenging field to work on.
 
 There are so many trends these days to work with but which trend would be the best choice to add or invest in? The answer would revolve around what the objective the project is moving towards. Some of the best trends are examples like; Mixed reality, A.I., IoT, Progressive web, Blockchains, and etc.  James R. (2019, 04, 25) 10 Software Development Trends in 2019. Retrieved from https://hackernoon.com/10-top-software-development-trends-a12d25f5fd2d.
 
