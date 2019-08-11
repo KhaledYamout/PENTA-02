@@ -42,7 +42,9 @@ After having the citizens rehabilitated, the program would keep a careful watch 
 
 The motivation of the project is based solely on people’s health before anything. So many people have had their lives torn apart from being addicts and the rate is increasing in many places not just Australia. The project is important because if done correctly it can really have an impact on the lives of the people who are going through very through periods. It fits with I.T. trends as the program is live, meaning everything that is happening is being updated 24/7 automatically checking the progress of individuals and their medications. If the project were to actually launch there would be a significant change in how pharmacies all over the world operate. Understanding the importance of the project should allow an employer know that this project is crucial in the fight for keeping people from becoming addicts and getting them the proper help and support if they are.        
 
-### Landscape 
+### Landscape
+
+There is a program that is similar in the sense that it tracks one’s prescription in a safe manner however, the program/app that the group is trying to create is actually quite unique. As for competition, there are no real rivals since the app or program would be the first of its kind. The only hard part is getting pharmaceuticals to actually use the program properly as they depend on people’s desperate need for prescriptions in order to make more profit. What truly makes the program unique is the affiliation of the government and how the program keeps live tracking of the addicts to help bring them back to health.       
 
 Detailed Description of Project 
 
