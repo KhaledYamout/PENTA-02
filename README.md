@@ -34,6 +34,8 @@ The first assignments the group has worked on allowed the members of PENTA to un
 
 ### Overview Topic
 
+The proposed project is an idea that was developed from the last assignment. It was first thought of as a way to prevent drug addiction of prescribed medicine to people that are desperate. It then grew into being something more than just preventing them but, rather a way to assist citizens back to normal health. The outcomes of the project would not only be about preventing addicts from making their condition worse but it would give them another chance at becoming a part of society and going back to living good healthy lives.     
+
 ### Motivation
 
 ### Landscape 
