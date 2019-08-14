@@ -74,7 +74,9 @@ Devided into sections below.
 
 ### Roles
 
-### Defining Certain Roles
+### Scope and Limits
+
+Before developing the project, we plan to implement a prototype at a small scale to see its effectiveness and efficiency before committing to the project. We will employ a small group of software developers that will develop the application at a small scale. The application will be developed and deployed on a local machine with a small database containing the records of patients. The database will be small enough that we won’t be worried about performance. After developing the prototype, we will ask the developers to create test simulations to check its performance. We will then propose our idea to the local council and if we succeed, we will give it to the council to track prescription drug abusers. At this stage however, we will have limited access to the database that runs the application since it will be containing private information of the patients. If the app fails at this stage, we will ask the developers to improve it until its functional and if it succeeds, we will upscale it to the state level. The main problem that we will face during the upscaling is the hardware resources that will be needed. One of the solutions that we suggested was to use a cloud based system which allows upscaling and downscaling easy. The other solution was to build a server center but it would be costly in terms of construction and maintenance. Another issue with upscaling is the slow performance due to large data sets. To solve this problem, we intend to hire a computer scientist who is skilled in searching and sorting algorithms to optimize the performance of the app. We will keep upscaling it until it reaches the national level where it will track every patient and their usage of prescription drugs.
 
 ### Tools and Tech.
 
