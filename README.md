@@ -88,6 +88,8 @@ Before developing the project, we plan to implement a prototype at a small scale
 
 ### Group Procedure and Coms
 
+A very important aspect of working with a group of individuals is team work. How well does each person work with the other? Knowing each other’s skill sets and trying to combine them to make an ideal well-oiled machine that can do tasks efficiently. Communicating and understanding one another is another very important part of working in a team as it is crucial to know what each person thinks. Sharing one’s opinion and ideas will allow the group to grow as it would give rise to new ways of doing things in a project. Communications and following up with one another is significant because it help the group stay updated with everything they do. Knowing who does what, when, and how, will aid the team in knowing how to organize their work and scheduling their time appropriately to the tasks at hand. All in all the team needs to be prepared for all the obstacles they must face and they must face them together or it would be very difficult moving forward with dysfunctional members.        
+
 
 ## Skills & Jobs
 
