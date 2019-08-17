@@ -74,6 +74,7 @@ The aim of the project has a very specific goal to achieve. Its purpose is to se
 ### Plans and Progress
 
 ### Roles
+Roles are specified and given to certain individual for many reasons. The first being that each person has skills that they have learned and these skill are used to perform different tasks and functions. For example a computer developer would be responsible for creating and developing programs/apps for the project. A marketing strategist for instance would know what is important in the market and would suggest the best way to make profits and what it the best way of being a part of the completion to stay at the top of the rivalry. Then there is a hardware specialist who can put all the hardware needed for the project together, someone who can maintain the machines responsible for the program’s output. There also has to be someone who could lead the team or a person who could manage a team can either be a leader or a manager. Everywhere we go roles can define what a person does so that people know who does what and why?
 
 ### Scope and Limits
 
