@@ -69,6 +69,7 @@ Detailed Description of Project
 Devided into sections below.
 
 ### Aims
+The aim of the project has a very specific goal to achieve. Its purpose is to serve the people in a way that would provide guided health support and safety from the government. The program would need to be distributed across pharmaceuticals across the globe. The true target is to decrease the abuse of prescribed medication. This would certainly impact the amount of addicts that would be protected from worsening their conditions further. 
 
 ### Plans and Progress
 
